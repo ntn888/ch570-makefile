@@ -2,5 +2,5 @@
 
 modified from Makefile from [this repo](https://github.com/cjacker/ch583evt_gcc_makefile).
 
-Requires [MRS Toolchain](https://mounriver.com/download).
+Requires [MRS Toolchain](https://mounriver.com/download), to fix `Error: unrecognized opcode mcpy`.
 
